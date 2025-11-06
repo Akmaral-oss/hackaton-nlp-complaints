@@ -1,0 +1,9 @@
+# requirements.txt content:
+
+transformers              # Let pip choose the latest
+symspellpy==6.9.0
+langdetect==1.0.9
+pandas
+matplotlib
+sentence-transformers     # Let pip choose the latest compatible version
+huggingface_hub
